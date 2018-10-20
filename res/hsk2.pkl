@@ -1,0 +1,1969 @@
+(lp0
+(dp1
+S'sound_file'
+p2
+S'hsk2char1 \xef\xbb\xbf\xe5\xb0\xb1.mp3'
+p3
+sS'pinyin'
+p4
+S'ji\xc3\xb9'
+p5
+sS'meaning'
+p6
+S'then; at once; just; only; with regard to\r'
+p7
+sS'character'
+p8
+S'\xef\xbb\xbf\xe5\xb0\xb1'
+p9
+sa(dp10
+g2
+S'hsk2char2 \xe8\xa6\x81.mp3'
+p11
+sg4
+S'y\xc3\xa0o, y\xc4\x81o'
+p12
+sg6
+S'to want; to need; will/shall; important | demand; request\r'
+p13
+sg8
+S'\xe8\xa6\x81'
+p14
+sa(dp15
+g2
+S'hsk2char3 \xe7\x9f\xa5\xe9\x81\x93.mp3'
+p16
+sg4
+S'zh\xc4\xabdao'
+p17
+sg6
+S'know; be aware of\r'
+p18
+sg8
+S'\xe7\x9f\xa5\xe9\x81\x93'
+p19
+sa(dp20
+g2
+S'hsk2char4 \xe5\x90\xa7.mp3'
+p21
+sg4
+S'ba, b\xc4\x81'
+p22
+sg6
+S'particle indicating polite suggestion; | onomatopoeia | bar (serving drinks, providing internet access, etc.)\r'
+p23
+sg8
+S'\xe5\x90\xa7'
+p24
+sa(dp25
+g2
+S'hsk2char5 \xe5\x88\xb0.mp3'
+p26
+sg4
+S'd\xc3\xa0o'
+p27
+sg6
+S'arrive (at a place); until (a time)\r'
+p28
+sg8
+S'\xe5\x88\xb0'
+p29
+sa(dp30
+g2
+S'hsk2char6 \xe5\xaf\xb9.mp3'
+p31
+sg4
+S'du\xc3\xac'
+p32
+sg6
+S'correct; a pair; to face; be opposite; to; towards\r'
+p33
+sg8
+S'\xe5\xaf\xb9'
+p34
+sa(dp35
+g2
+S'hsk2char7 \xe4\xb9\x9f.mp3'
+p36
+sg4
+S'y\xc4\x9b'
+p37
+sg6
+S'also; too\r'
+p38
+sg8
+S'\xe4\xb9\x9f'
+p39
+sa(dp40
+g2
+S'hsk2char8 \xe8\xbf\x98.mp3'
+p41
+sg4
+S'h\xc3\xa1i, hu\xc3\xa1n'
+p42
+sg6
+S'still; yet; in addition; even | repay; to return\r'
+p43
+sg8
+S'\xe8\xbf\x98'
+p44
+sa(dp45
+g2
+S'hsk2char9 \xe8\xae\xa9.mp3'
+p46
+sg4
+S'r\xc3\xa0ng'
+p47
+sg6
+S'ask; let; yield\r'
+p48
+sg8
+S'\xe8\xae\xa9'
+p49
+sa(dp50
+g2
+S'hsk2char10 \xe7\xbb\x99.mp3'
+p51
+sg4
+S'g\xc4\x9bi, j\xc7\x90'
+p52
+sg6
+S'to give; to grant; (passive particle) | provide\r'
+p53
+sg8
+S'\xe7\xbb\x99'
+p54
+sa(dp55
+g2
+S'hsk2char11 \xe8\xbf\x87.mp3'
+p56
+sg4
+S'gu\xc3\xb2'
+p57
+sg6
+S'to pass; to cross; go over; (indicates a past experience)\r'
+p58
+sg8
+S'\xe8\xbf\x87'
+p59
+sa(dp60
+g2
+S'hsk2char12 \xe5\xbe\x97.mp3'
+p61
+sg4
+S'd\xc3\xa9, d\xc4\x9bi, de'
+p62
+sg6
+S'obtain | must | (complement particle)\r'
+p63
+sg8
+S'\xe5\xbe\x97'
+p64
+sa(dp65
+g2
+S'hsk2char13 \xe7\x9c\x9f.mp3'
+p66
+sg4
+S'zh\xc4\x93n'
+p67
+sg6
+S'real; true; genuine\r'
+p68
+sg8
+S'\xe7\x9c\x9f'
+p69
+sa(dp70
+g2
+S'hsk2char14 \xe7\x9d\x80.mp3'
+p71
+sg4
+S'zhe, zh\xc3\xa1o, zhu\xc3\xb3'
+p72
+sg6
+S'-ing (indicating action in progress) | to touch; to feel | to wear; apply\r'
+p73
+sg8
+S'\xe7\x9d\x80'
+p74
+sa(dp75
+g2
+S'hsk2char15 \xe5\x8f\xaf\xe4\xbb\xa5.mp3'
+p76
+sg4
+S'k\xc4\x9by\xc7\x90'
+p77
+sg6
+S'can; may; possible; okay\r'
+p78
+sg8
+S'\xe5\x8f\xaf\xe4\xbb\xa5'
+p79
+sa(dp80
+g2
+S'hsk2char16 \xe5\x88\xab.mp3'
+p81
+sg4
+S'bi\xc3\xa9, bi\xc3\xa8'
+p82
+sg6
+S"don't do something; don't | depart; | other; difference; distinguish\r"
+p83
+sg8
+S'\xe5\x88\xab'
+p84
+sa(dp85
+g2
+S'hsk2char17 \xe8\xb5\xb0.mp3'
+p86
+sg4
+S'z\xc7\x92u'
+p87
+sg6
+S'to walk; to go; to move (Kangxi radical 156)\r'
+p88
+sg8
+S'\xe8\xb5\xb0'
+p89
+sa(dp90
+g2
+S'hsk2char18 \xe5\x91\x8a\xe8\xaf\x89.mp3'
+p91
+sg4
+S'g\xc3\xa0osu'
+p92
+sg6
+S'to tell; inform\r'
+p93
+sg8
+S'\xe5\x91\x8a\xe8\xaf\x89'
+p94
+sa(dp95
+g2
+S'hsk2char19 \xe5\x9b\xa0\xe4\xb8\xba.mp3'
+p96
+sg4
+S'y\xc4\xabnw\xc3\xa8i'
+p97
+sg6
+S'because\r'
+p98
+sg8
+S'\xe5\x9b\xa0\xe4\xb8\xba'
+p99
+sa(dp100
+g2
+S'hsk2char20 \xe5\x86\x8d.mp3'
+p101
+sg4
+S'z\xc3\xa0i'
+p102
+sg6
+S'again; once more\r'
+p103
+sg8
+S'\xe5\x86\x8d'
+p104
+sa(dp105
+g2
+S'hsk2char21 \xe5\xbf\xab.mp3'
+p106
+sg4
+S'ku\xc3\xa0i'
+p107
+sg6
+S'fast; quick; swift\r'
+p108
+sg8
+S'\xe5\xbf\xab'
+p109
+sa(dp110
+g2
+S'hsk2char22 \xe4\xbd\x86\xe6\x98\xaf.mp3'
+p111
+sg4
+S'd\xc3\xa0nsh\xc3\xac'
+p112
+sg6
+S'but; however\r'
+p113
+sg8
+S'\xe4\xbd\x86\xe6\x98\xaf'
+p114
+sa(dp115
+g2
+S'hsk2char23 \xe5\xb7\xb2\xe7\xbb\x8f.mp3'
+p116
+sg4
+S'y\xc7\x90jing'
+p117
+sg6
+S'already\r'
+p118
+sg8
+S'\xe5\xb7\xb2\xe7\xbb\x8f'
+p119
+sa(dp120
+g2
+S'hsk2char24 \xe4\xb8\xba\xe4\xbb\x80\xe4\xb9\x88.mp3'
+p121
+sg4
+S'w\xc3\xa8ish\xc3\xa9nme'
+p122
+sg6
+S'why?; for what reason?\r'
+p123
+sg8
+S'\xe4\xb8\xba\xe4\xbb\x80\xe4\xb9\x88'
+p124
+sa(dp125
+g2
+S'hsk2char25 \xe8\xa7\x89\xe5\xbe\x97.mp3'
+p126
+sg4
+S'ju\xc3\xa9de'
+p127
+sg6
+S'feel; think\r'
+p128
+sg8
+S'\xe8\xa7\x89\xe5\xbe\x97'
+p129
+sa(dp130
+g2
+S'hsk2char26 \xe5\xae\x83.mp3'
+p131
+sg4
+S't\xc4\x81'
+p132
+sg6
+S'it\r'
+p133
+sg8
+S'\xe5\xae\x83'
+p134
+sa(dp135
+g2
+S'hsk2char27 \xe4\xbb\x8e.mp3'
+p136
+sg4
+S'c\xc3\xb3ng'
+p137
+sg6
+S'from; obey; observe\r'
+p138
+sg8
+S'\xe4\xbb\x8e'
+p139
+sa(dp140
+g2
+S'hsk2char28 \xe6\x89\xbe.mp3'
+p141
+sg4
+S'zh\xc7\x8eo'
+p142
+sg6
+S'try to find; look for; seek; to give change\r'
+p143
+sg8
+S'\xe6\x89\xbe'
+p144
+sa(dp145
+g2
+S'hsk2char29 \xe6\x9c\x80.mp3'
+p146
+sg4
+S'zu\xc3\xac'
+p147
+sg6
+S'the most; -est; (indicator for superlative)\r'
+p148
+sg8
+S'\xe6\x9c\x80'
+p149
+sa(dp150
+g2
+S'hsk2char30 \xe5\x8f\xaf\xe8\x83\xbd.mp3'
+p151
+sg4
+S'k\xc4\x9bn\xc3\xa9ng'
+p152
+sg6
+S'possible; maybe\r'
+p153
+sg8
+S'\xe5\x8f\xaf\xe8\x83\xbd'
+p154
+sa(dp155
+g2
+S'hsk2char31 \xe6\xac\xa1.mp3'
+p156
+sg4
+S'c\xc3\xac'
+p157
+sg6
+S'(mw for number of times of occurrence); nth; order\r'
+p158
+sg8
+S'\xe6\xac\xa1'
+p159
+sa(dp160
+g2
+S'hsk2char32 \xe5\x87\xba.mp3'
+p161
+sg4
+S'ch\xc5\xab'
+p162
+sg6
+S'go out; occur\r'
+p163
+sg8
+S'\xe5\x87\xba'
+p164
+sa(dp165
+g2
+S'hsk2char33 \xe5\xad\xa9\xe5\xad\x90.mp3'
+p166
+sg4
+S'h\xc3\xa1izi'
+p167
+sg6
+S'child; children; son or daughter\r'
+p168
+sg8
+S'\xe5\xad\xa9\xe5\xad\x90'
+p169
+sa(dp170
+g2
+S'hsk2char34 \xe6\x89\x80\xe4\xbb\xa5.mp3'
+p171
+sg4
+S'su\xc7\x92y\xc7\x90'
+p172
+sg6
+S'so; therefore; as a result\r'
+p173
+sg8
+S'\xe6\x89\x80\xe4\xbb\xa5'
+p174
+sa(dp175
+g2
+S'hsk2char35 \xe4\xb8\xa4.mp3'
+p176
+sg4
+S'li\xc7\x8eng'
+p177
+sg6
+S'two; 2; both; (unit of weight equal to 50 grams)\r'
+p178
+sg8
+S'\xe4\xb8\xa4'
+p179
+sa(dp180
+g2
+S'hsk2char36 \xe9\x94\x99.mp3'
+p181
+sg4
+S'cu\xc3\xb2'
+p182
+sg6
+S'mistake; error; blunder; miss an opportunity\r'
+p183
+sg8
+S'\xe9\x94\x99'
+p184
+sa(dp185
+g2
+S'hsk2char37 \xe7\xad\x89.mp3'
+p186
+sg4
+S'd\xc4\x9bng'
+p187
+sg6
+S'to wait; rank; equal; etc.\r'
+p188
+sg8
+S'\xe7\xad\x89'
+p189
+sa(dp190
+g2
+S'hsk2char38 \xe9\xa2\x98.mp3'
+p191
+sg4
+S't\xc3\xad'
+p192
+sg6
+S'topic; subject; question on a test or assignment\r'
+p193
+sg8
+S'\xe9\xa2\x98'
+p194
+sa(dp195
+g2
+S'hsk2char39 \xe9\x97\xae.mp3'
+p196
+sg4
+S'w\xc3\xa8n'
+p197
+sg6
+S'ask; inquire\r'
+p198
+sg8
+S'\xe9\x97\xae'
+p199
+sa(dp200
+g2
+S'hsk2char40 \xe9\x97\xae\xe9\xa2\x98.mp3'
+p201
+sg4
+S'w\xc3\xa8nt\xc3\xad'
+p202
+sg6
+S'question; problem\r'
+p203
+sg8
+S'\xe9\x97\xae\xe9\xa2\x98'
+p204
+sa(dp205
+g2
+S'hsk2char41 \xe4\xb8\x80\xe8\xb5\xb7.mp3'
+p206
+sg4
+S'y\xc3\xacq\xc7\x90'
+p207
+sg6
+S'together; in the same place\r'
+p208
+sg8
+S'\xe4\xb8\x80\xe8\xb5\xb7'
+p209
+sa(dp210
+g2
+S'hsk2char42 \xe5\xbc\x80\xe5\xa7\x8b.mp3'
+p211
+sg4
+S'k\xc4\x81ish\xc7\x90'
+p212
+sg6
+S'begin; to start; beginning\r'
+p213
+sg8
+S'\xe5\xbc\x80\xe5\xa7\x8b'
+p214
+sa(dp215
+g2
+S'hsk2char43 \xe6\x97\xb6\xe9\x97\xb4.mp3'
+p216
+sg4
+S'sh\xc3\xadji\xc4\x81n'
+p217
+sg6
+S'time; period\r'
+p218
+sg8
+S'\xe6\x97\xb6\xe9\x97\xb4'
+p219
+sa(dp220
+g2
+S'hsk2char44 \xe4\xba\x8b\xe6\x83\x85.mp3'
+p221
+sg4
+S'sh\xc3\xacqing'
+p222
+sg6
+S'matter; affair; thing; business\r'
+p223
+sg8
+S'\xe4\xba\x8b\xe6\x83\x85'
+p224
+sa(dp225
+g2
+S'hsk2char45 \xe4\xb8\x80\xe4\xb8\x8b.mp3'
+p226
+sg4
+S'y\xc3\xadxi\xc3\xa0'
+p227
+sg6
+S'a little bit/while; one time; once\r'
+p228
+sg8
+S'\xe4\xb8\x80\xe4\xb8\x8b'
+p229
+sa(dp230
+g2
+S'hsk2char46 \xe9\x9d\x9e\xe5\xb8\xb8.mp3'
+p231
+sg4
+S'f\xc4\x93ich\xc3\xa1ng'
+p232
+sg6
+S'extremely; extraordinary; very\r'
+p233
+sg8
+S'\xe9\x9d\x9e\xe5\xb8\xb8'
+p234
+sa(dp235
+g2
+S'hsk2char47 \xe5\xb8\x8c\xe6\x9c\x9b.mp3'
+p236
+sg4
+S'x\xc4\xabw\xc3\xa0ng'
+p237
+sg6
+S'to hope; wish for; to desire\r'
+p238
+sg8
+S'\xe5\xb8\x8c\xe6\x9c\x9b'
+p239
+sa(dp240
+g2
+S'hsk2char48 \xe5\x87\x86\xe5\xa4\x87.mp3'
+p241
+sg4
+S'zh\xc7\x94nb\xc3\xa8i'
+p242
+sg6
+S'prepare; get ready\r'
+p243
+sg8
+S'\xe5\x87\x86\xe5\xa4\x87'
+p244
+sa(dp245
+g2
+S'hsk2char49 \xe6\xaf\x94.mp3'
+p246
+sg4
+S'b\xc7\x90'
+p247
+sg6
+S'compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks\r'
+p248
+sg8
+S'\xe6\xaf\x94'
+p249
+sa(dp250
+g2
+S'hsk2char50 \xe4\xbb\xb6.mp3'
+p251
+sg4
+S'ji\xc3\xa0n'
+p252
+sg6
+S'(mw for things, clothes, and items)\r'
+p253
+sg8
+S'\xe4\xbb\xb6'
+p254
+sa(dp255
+g2
+S'hsk2char51 \xe6\x84\x8f\xe6\x80\x9d.mp3'
+p256
+sg4
+S'y\xc3\xacsi'
+p257
+sg6
+S'meaning; idea; opinion\r'
+p258
+sg8
+S'\xe6\x84\x8f\xe6\x80\x9d'
+p259
+sa(dp260
+g2
+S'hsk2char52 \xe7\xac\xac\xe4\xb8\x80.mp3'
+p261
+sg4
+S'd\xc3\xacy\xc4\xab'
+p262
+sg6
+S'first; number 1\r'
+p263
+sg8
+S'\xe7\xac\xac\xe4\xb8\x80'
+p264
+sa(dp265
+g2
+S'hsk2char53 \xe8\xbf\x9b.mp3'
+p266
+sg4
+S'j\xc3\xacn'
+p267
+sg6
+S'enter; come in\r'
+p268
+sg8
+S'\xe8\xbf\x9b'
+p269
+sa(dp270
+g2
+S'hsk2char54 \xe5\xa4\xa7\xe5\xae\xb6.mp3'
+p271
+sg4
+S'd\xc3\xa0ji\xc4\x81'
+p272
+sg6
+S'everyone\r'
+p273
+sg8
+S'\xe5\xa4\xa7\xe5\xae\xb6'
+p274
+sa(dp275
+g2
+S'hsk2char55 \xe6\x96\xb0.mp3'
+p276
+sg4
+S'x\xc4\xabn'
+p277
+sg6
+S'new; Xinjiang autonomous region (abbreviation)\r'
+p278
+sg8
+S'\xe6\x96\xb0'
+p279
+sa(dp280
+g2
+S'hsk2char56 \xe6\x82\xa8.mp3'
+p281
+sg4
+S'n\xc3\xadn'
+p282
+sg6
+S'you (polite)\r'
+p283
+sg8
+S'\xe6\x82\xa8'
+p284
+sa(dp285
+g2
+S'hsk2char57 \xe7\xa9\xbf.mp3'
+p286
+sg4
+S'chu\xc4\x81n'
+p287
+sg6
+S'to wear; put on; penetrate\r'
+p288
+sg8
+S'\xe7\xa9\xbf'
+p289
+sa(dp290
+g2
+S'hsk2char58 \xe9\x80\x81.mp3'
+p291
+sg4
+S's\xc3\xb2ng'
+p292
+sg6
+S'deliver; to carry; to give; send\r'
+p293
+sg8
+S'\xe9\x80\x81'
+p294
+sa(dp295
+g2
+S'hsk2char59 \xe7\x8e\xa9.mp3'
+p296
+sg4
+S'w\xc3\xa1n'
+p297
+sg6
+S'to play; have a good time; visit; enjoy\r'
+p298
+sg8
+S'\xe7\x8e\xa9'
+p299
+sa(dp300
+g2
+S'hsk2char60 \xe9\x95\xbf.mp3'
+p301
+sg4
+S'ch\xc3\xa1ng, zh\xc7\x8eng'
+p302
+sg6
+S'long; length | grow; chief (Kangxi radical 168)\r'
+p303
+sg8
+S'\xe9\x95\xbf'
+p304
+sa(dp305
+g2
+S'hsk2char61 \xe5\xb0\x8f\xe6\x97\xb6.mp3'
+p306
+sg4
+S'xi\xc7\x8eosh\xc3\xad'
+p307
+sg6
+S'hour\r'
+p308
+sg8
+S'\xe5\xb0\x8f\xe6\x97\xb6'
+p309
+sa(dp310
+g2
+S'hsk2char62 \xe5\xae\x8c.mp3'
+p311
+sg4
+S'w\xc3\xa1n'
+p312
+sg6
+S'to finish; be over; complete\r'
+p313
+sg8
+S'\xe5\xae\x8c'
+p314
+sa(dp315
+g2
+S'hsk2char63 \xe6\xaf\x8f.mp3'
+p316
+sg4
+S'm\xc4\x9bi'
+p317
+sg6
+S'each; every\r'
+p318
+sg8
+S'\xe6\xaf\x8f'
+p319
+sa(dp320
+g2
+S'hsk2char64 \xe5\x85\xac\xe5\x8f\xb8.mp3'
+p321
+sg4
+S'g\xc5\x8dngs\xc4\xab'
+p322
+sg6
+S'company; corporation\r'
+p323
+sg8
+S'\xe5\x85\xac\xe5\x8f\xb8'
+p324
+sa(dp325
+g2
+S'hsk2char65 \xe5\xb8\xae\xe5\x8a\xa9.mp3'
+p326
+sg4
+S'b\xc4\x81ngzh\xc3\xb9'
+p327
+sg6
+S'help; assist; aid\r'
+p328
+sg8
+S'\xe5\xb8\xae\xe5\x8a\xa9'
+p329
+sa(dp330
+g2
+S'hsk2char66 \xe6\x99\x9a\xe4\xb8\x8a.mp3'
+p331
+sg4
+S'w\xc7\x8enshang'
+p332
+sg6
+S'evening; night\r'
+p333
+sg8
+S'\xe6\x99\x9a\xe4\xb8\x8a'
+p334
+sa(dp335
+g2
+S'hsk2char67 \xe8\xaf\xb4\xe8\xaf\x9d.mp3'
+p336
+sg4
+S'shu\xc5\x8dhu\xc3\xa0'
+p337
+sg6
+S'to talk; speak\r'
+p338
+sg8
+S'\xe8\xaf\xb4\xe8\xaf\x9d'
+p339
+sa(dp340
+g2
+S'hsk2char68 \xe9\x97\xa8.mp3'
+p341
+sg4
+S'm\xc3\xa9n'
+p342
+sg6
+S'door; opening; gate (Kangxi radical 169)\r'
+p343
+sg8
+S'\xe9\x97\xa8'
+p344
+sa(dp345
+g2
+S'hsk2char69 \xe5\xa5\xb3.mp3'
+p346
+sg4
+S'n\xc7\x9a'
+p347
+sg6
+S'woman; female (Kangxi radical 38)\r'
+p348
+sg8
+S'\xe5\xa5\xb3'
+p349
+sa(dp350
+g2
+S'hsk2char70 \xe5\xbf\x99.mp3'
+p351
+sg4
+S'm\xc3\xa1ng'
+p352
+sg6
+S'busy\r'
+p353
+sg8
+S'\xe5\xbf\x99'
+p354
+sa(dp355
+g2
+S'hsk2char71 \xe5\x8d\x96.mp3'
+p356
+sg4
+S'm\xc3\xa0i'
+p357
+sg6
+S'to sell\r'
+p358
+sg8
+S'\xe5\x8d\x96'
+p359
+sa(dp360
+g2
+S'hsk2char72 \xe9\xab\x98.mp3'
+p361
+sg4
+S'g\xc4\x81o'
+p362
+sg6
+S'high; tall (Kangxi radical 189)\r'
+p363
+sg8
+S'\xe9\xab\x98'
+p364
+sa(dp365
+g2
+S'hsk2char73 \xe6\x88\xbf\xe9\x97\xb4.mp3'
+p366
+sg4
+S'f\xc3\xa1ngji\xc4\x81n'
+p367
+sg6
+S'room\r'
+p368
+sg8
+S'\xe6\x88\xbf\xe9\x97\xb4'
+p369
+sa(dp370
+g2
+S'hsk2char74 \xe8\xb7\xaf.mp3'
+p371
+sg4
+S'l\xc3\xb9'
+p372
+sg6
+S'road; path; journey; route\r'
+p373
+sg8
+S'\xe8\xb7\xaf'
+p374
+sa(dp375
+g2
+S'hsk2char75 \xe6\x87\x82.mp3'
+p376
+sg4
+S'd\xc7\x92ng'
+p377
+sg6
+S'understand; know\r'
+p378
+sg8
+S'\xe6\x87\x82'
+p379
+sa(dp380
+g2
+S'hsk2char76 \xe6\xad\xa3\xe5\x9c\xa8.mp3'
+p381
+sg4
+S'zh\xc3\xa8ngz\xc3\xa0i'
+p382
+sg6
+S'in the process of (doing something); currently\r'
+p383
+sg8
+S'\xe6\xad\xa3\xe5\x9c\xa8'
+p384
+sa(dp385
+g2
+S'hsk2char77 \xe7\xac\x91.mp3'
+p386
+sg4
+S'xi\xc3\xa0o'
+p387
+sg6
+S'to laugh; to smile\r'
+p388
+sg8
+S'\xe7\xac\x91'
+p389
+sa(dp390
+g2
+S'hsk2char78 \xe8\xbf\x9c.mp3'
+p391
+sg4
+S'yu\xc7\x8en'
+p392
+sg6
+S'far; distant; remote\r'
+p393
+sg8
+S'\xe8\xbf\x9c'
+p394
+sa(dp395
+g2
+S'hsk2char79 \xe5\xa6\xbb\xe5\xad\x90.mp3'
+p396
+sg4
+S'q\xc4\xabzi'
+p397
+sg6
+S'wife\r'
+p398
+sg8
+S'\xe5\xa6\xbb\xe5\xad\x90'
+p399
+sa(dp400
+g2
+S'hsk2char80 \xe4\xb8\x88\xe5\xa4\xab.mp3'
+p401
+sg4
+S'zh\xc3\xa0ngfu'
+p402
+sg6
+S'husband; man\r'
+p403
+sg8
+S'\xe4\xb8\x88\xe5\xa4\xab'
+p404
+sa(dp405
+g2
+S'hsk2char81 \xe7\xa6\xbb.mp3'
+p406
+sg4
+S'l\xc3\xad'
+p407
+sg6
+S'leave; depart; go away; apart from\r'
+p408
+sg8
+S'\xe7\xa6\xbb'
+p409
+sa(dp410
+g2
+S'hsk2char82 \xe5\xbe\x80.mp3'
+p411
+sg4
+S'w\xc7\x8eng'
+p412
+sg6
+S'to go (in a direction); towards; in the past\r'
+p413
+sg8
+S'\xe5\xbe\x80'
+p414
+sa(dp415
+g2
+S'hsk2char83 \xe7\x94\xb7.mp3'
+p416
+sg4
+S'n\xc3\xa1n'
+p417
+sg6
+S'male\r'
+p418
+sg8
+S'\xe7\x94\xb7'
+p419
+sa(dp420
+g2
+S'hsk2char84 \xe7\x9c\xbc\xe7\x9d\x9b.mp3'
+p421
+sg4
+S'y\xc7\x8enjing'
+p422
+sg6
+S'eye\r'
+p423
+sg8
+S'\xe7\x9c\xbc\xe7\x9d\x9b'
+p424
+sa(dp425
+g2
+S'hsk2char85 \xe5\xbf\xab\xe4\xb9\x90.mp3'
+p426
+sg4
+S'ku\xc3\xa0il\xc3\xa8'
+p427
+sg6
+S'happy\r'
+p428
+sg8
+S'\xe5\xbf\xab\xe4\xb9\x90'
+p429
+sa(dp430
+g2
+S'hsk2char86 \xe8\x99\xbd\xe7\x84\xb6.mp3'
+p431
+sg4
+S'su\xc4\xabr\xc3\xa1n'
+p432
+sg6
+S'although; even though\r'
+p433
+sg8
+S'\xe8\x99\xbd\xe7\x84\xb6'
+p434
+sa(dp435
+g2
+S'hsk2char87 \xe6\x97\xa9\xe4\xb8\x8a.mp3'
+p436
+sg4
+S'z\xc7\x8eoshang'
+p437
+sg6
+S'(early) morning\r'
+p438
+sg8
+S'\xe6\x97\xa9\xe4\xb8\x8a'
+p439
+sa(dp440
+g2
+S'hsk2char88 \xe8\x8d\xaf.mp3'
+p441
+sg4
+S'y\xc3\xa0o'
+p442
+sg6
+S'medicine; drug; cure; chemical\r'
+p443
+sg8
+S'\xe8\x8d\xaf'
+p444
+sa(dp445
+g2
+S'hsk2char89 \xe8\xba\xab\xe4\xbd\x93.mp3'
+p446
+sg4
+S'sh\xc4\x93nt\xc7\x90'
+p447
+sg6
+S'health; (human) body\r'
+p448
+sg8
+S'\xe8\xba\xab\xe4\xbd\x93'
+p449
+sa(dp450
+g2
+S'hsk2char90 \xe9\xbb\x91.mp3'
+p451
+sg4
+S'h\xc4\x93i'
+p452
+sg6
+S'black; dark (Kangxi radical 203); Heilongjiang province (abbreviation)\r'
+p453
+sg8
+S'\xe9\xbb\x91'
+p454
+sa(dp455
+g2
+S'hsk2char91 \xe5\x92\x96\xe5\x95\xa1.mp3'
+p456
+sg4
+S'k\xc4\x81f\xc4\x93i'
+p457
+sg6
+S'coffee\r'
+p458
+sg8
+S'\xe5\x92\x96\xe5\x95\xa1'
+p459
+sa(dp460
+g2
+S'hsk2char92 \xe6\x97\xa5.mp3'
+p461
+sg4
+S'r\xc3\xac'
+p462
+sg6
+S'sun; day; date; time (Kangxi radical 72)\r'
+p463
+sg8
+S'\xe6\x97\xa5'
+p464
+sa(dp465
+g2
+S'hsk2char93 \xe4\xbc\x91\xe6\x81\xaf.mp3'
+p466
+sg4
+S'xi\xc5\xabxi'
+p467
+sg6
+S'to rest; take a break\r'
+p468
+sg8
+S'\xe4\xbc\x91\xe6\x81\xaf'
+p469
+sa(dp470
+g2
+S'hsk2char94 \xe5\xa4\x96.mp3'
+p471
+sg4
+S'w\xc3\xa0i'
+p472
+sg6
+S'outer; outside; in addition; foreign\r'
+p473
+sg8
+S'\xe5\xa4\x96'
+p474
+sa(dp475
+g2
+S'hsk2char95 \xe7\x94\x9f\xe6\x97\xa5.mp3'
+p476
+sg4
+S'sh\xc4\x93ngr\xc3\xac'
+p477
+sg6
+S'birthday\r'
+p478
+sg8
+S'\xe7\x94\x9f\xe6\x97\xa5'
+p479
+sa(dp480
+g2
+S'hsk2char96 \xe5\x93\xa5\xe5\x93\xa5.mp3'
+p481
+sg4
+S'g\xc4\x93ge'
+p482
+sg6
+S'older brother\r'
+p483
+sg8
+S'\xe5\x93\xa5\xe5\x93\xa5'
+p484
+sa(dp485
+g2
+S'hsk2char97 \xe7\xa5\xa8.mp3'
+p486
+sg4
+S'pi\xc3\xa0o'
+p487
+sg6
+S'ticket; bank note; a vote\r'
+p488
+sg8
+S'\xe7\xa5\xa8'
+p489
+sa(dp490
+g2
+S'hsk2char98 \xe6\x89\x8b\xe6\x9c\xba.mp3'
+p491
+sg4
+S'sh\xc7\x92uj\xc4\xab'
+p492
+sg6
+S'mobile (cell) phone\r'
+p493
+sg8
+S'\xe6\x89\x8b\xe6\x9c\xba'
+p494
+sa(dp495
+g2
+S'hsk2char99 \xe6\xb4\x97.mp3'
+p496
+sg4
+S'x\xc7\x90'
+p497
+sg6
+S'to wash; bathe\r'
+p498
+sg8
+S'\xe6\xb4\x97'
+p499
+sa(dp500
+g2
+S'hsk2char100 \xe8\xb7\xb3\xe8\x88\x9e.mp3'
+p501
+sg4
+S'ti\xc3\xa0o w\xc7\x94'
+p502
+sg6
+S'to dance\r'
+p503
+sg8
+S'\xe8\xb7\xb3\xe8\x88\x9e'
+p504
+sa(dp505
+g2
+S'hsk2char101 \xe5\xbc\x9f\xe5\xbc\x9f.mp3'
+p506
+sg4
+S'd\xc3\xacdi'
+p507
+sg6
+S'younger brother\r'
+p508
+sg8
+S'\xe5\xbc\x9f\xe5\xbc\x9f'
+p509
+sa(dp510
+g2
+S'hsk2char102 \xe5\xa6\xb9\xe5\xa6\xb9.mp3'
+p511
+sg4
+S'm\xc3\xa8imei'
+p512
+sg6
+S'younger sister\r'
+p513
+sg8
+S'\xe5\xa6\xb9\xe5\xa6\xb9'
+p514
+sa(dp515
+g2
+S'hsk2char103 \xe7\xba\xa2.mp3'
+p516
+sg4
+S'h\xc3\xb3ng'
+p517
+sg6
+S'red; symbol of success; bonus; popular\r'
+p518
+sg8
+S'\xe7\xba\xa2'
+p519
+sa(dp520
+g2
+S'hsk2char104 \xe6\x85\xa2.mp3'
+p521
+sg4
+S'm\xc3\xa0n'
+p522
+sg6
+S'slow\r'
+p523
+sg8
+S'\xe6\x85\xa2'
+p524
+sa(dp525
+g2
+S'hsk2char105 \xe8\xbf\x91.mp3'
+p526
+sg4
+S'j\xc3\xacn'
+p527
+sg6
+S'near; close (to)\r'
+p528
+sg8
+S'\xe8\xbf\x91'
+p529
+sa(dp530
+g2
+S'hsk2char106 \xe7\x99\xbd.mp3'
+p531
+sg4
+S'b\xc3\xa1i, b\xc3\xb3'
+p532
+sg6
+S'white; snowy; pure; bright; empty (Kangxi radical 106)\r'
+p533
+sg8
+S'\xe7\x99\xbd'
+p534
+sa(dp535
+g2
+S'hsk2char107 \xe5\xa7\x90\xe5\xa7\x90.mp3'
+p536
+sg4
+S'ji\xc4\x9bjie'
+p537
+sg6
+S'older sister\r'
+p538
+sg8
+S'\xe5\xa7\x90\xe5\xa7\x90'
+p539
+sa(dp540
+g2
+S'hsk2char108 \xe4\xbb\x8b\xe7\xbb\x8d.mp3'
+p541
+sg4
+S'ji\xc3\xa8sh\xc3\xa0o'
+p542
+sg6
+S'to introduce; recommend; introduction\r'
+p543
+sg8
+S'\xe4\xbb\x8b\xe7\xbb\x8d'
+p544
+sa(dp545
+g2
+S'hsk2char109 \xe9\xb1\xbc.mp3'
+p546
+sg4
+S'y\xc3\xba'
+p547
+sg6
+S'fish (Kangxi radical 195)\r'
+p548
+sg8
+S'\xe9\xb1\xbc'
+p549
+sa(dp550
+g2
+S'hsk2char110 \xe7\xb4\xaf.mp3'
+p551
+sg4
+S'l\xc3\xa8i, l\xc4\x9bi, l\xc3\xa9i'
+p552
+sg6
+S'tired | accumulate; implicate | rope; bind together\r'
+p553
+sg8
+S'\xe7\xb4\xaf'
+p554
+sa(dp555
+g2
+S'hsk2char111 \xe8\xaf\xbe.mp3'
+p556
+sg4
+S'k\xc3\xa8'
+p557
+sg6
+S'class; subject; lesson; course\r'
+p558
+sg8
+S'\xe8\xaf\xbe'
+p559
+sa(dp560
+g2
+S'hsk2char112 \xe4\xb8\x8a\xe7\x8f\xad.mp3'
+p561
+sg4
+S'sh\xc3\xa0ng b\xc4\x81n'
+p562
+sg6
+S'go to work; be on duty\r'
+p563
+sg8
+S'\xe4\xb8\x8a\xe7\x8f\xad'
+p564
+sa(dp565
+g2
+S'hsk2char113 \xe6\x97\x81\xe8\xbe\xb9.mp3'
+p566
+sg4
+S'p\xc3\xa1ngbi\xc4\x81n'
+p567
+sg6
+S'side, beside\r'
+p568
+sg8
+S'\xe6\x97\x81\xe8\xbe\xb9'
+p569
+sa(dp570
+g2
+S'hsk2char114 \xe8\xbf\x90\xe5\x8a\xa8.mp3'
+p571
+sg4
+S'y\xc3\xb9nd\xc3\xb2ng'
+p572
+sg6
+S'(physical) exercise; movement; sports; campaign\r'
+p573
+sg8
+S'\xe8\xbf\x90\xe5\x8a\xa8'
+p574
+sa(dp575
+g2
+S'hsk2char115 \xe5\x8e\xbb\xe5\xb9\xb4.mp3'
+p576
+sg4
+S'q\xc3\xb9ni\xc3\xa1n'
+p577
+sg6
+S'last year\r'
+p578
+sg8
+S'\xe5\x8e\xbb\xe5\xb9\xb4'
+p579
+sa(dp580
+g2
+S'hsk2char116 \xe6\x8a\xa5\xe7\xba\xb8.mp3'
+p581
+sg4
+S'b\xc3\xa0ozh\xc7\x90'
+p582
+sg6
+S'newspaper\r'
+p583
+sg8
+S'\xe6\x8a\xa5\xe7\xba\xb8'
+p584
+sa(dp585
+g2
+S'hsk2char117 \xe9\xa2\x9c\xe8\x89\xb2.mp3'
+p586
+sg4
+S'y\xc3\xa1ns\xc3\xa8'
+p587
+sg6
+S'color\r'
+p588
+sg8
+S'\xe9\xa2\x9c\xe8\x89\xb2'
+p589
+sa(dp590
+g2
+S'hsk2char118 \xe6\x9c\xba\xe5\x9c\xba.mp3'
+p591
+sg4
+S'j\xc4\xabch\xc7\x8eng'
+p592
+sg6
+S'airport; airfield\r'
+p593
+sg8
+S'\xe6\x9c\xba\xe5\x9c\xba'
+p594
+sa(dp595
+g2
+S'hsk2char119 \xe5\x94\xb1\xe6\xad\x8c.mp3'
+p596
+sg4
+S'ch\xc3\xa0ngg\xc4\x93'
+p597
+sg6
+S'sing (a song)\r'
+p598
+sg8
+S'\xe5\x94\xb1\xe6\xad\x8c'
+p599
+sa(dp600
+g2
+S'hsk2char120 \xe5\x8d\x83.mp3'
+p601
+sg4
+S'qi\xc4\x81n'
+p602
+sg6
+S'one thousand\r'
+p603
+sg8
+S'\xe5\x8d\x83'
+p604
+sa(dp605
+g2
+S'hsk2char121 \xe5\xa5\xbd\xe5\x90\x83.mp3'
+p606
+sg4
+S'h\xc7\x8eoch\xc4\xab'
+p607
+sg6
+S'tasty\r'
+p608
+sg8
+S'\xe5\xa5\xbd\xe5\x90\x83'
+p609
+sa(dp610
+g2
+S'hsk2char122 \xe8\x80\x83\xe8\xaf\x95.mp3'
+p611
+sg4
+S'k\xc7\x8eosh\xc3\xac'
+p612
+sg6
+S'test; exam; to give or take a test\r'
+p613
+sg8
+S'\xe8\x80\x83\xe8\xaf\x95'
+p614
+sa(dp615
+g2
+S'hsk2char123 \xe5\xb7\xa6\xe8\xbe\xb9.mp3'
+p616
+sg4
+S'zu\xc7\x92bian'
+p617
+sg6
+S'the left side; the left\r'
+p618
+sg8
+S'\xe5\xb7\xa6\xe8\xbe\xb9'
+p619
+sa(dp620
+g2
+S'hsk2char124 \xe5\xa7\x93.mp3'
+p621
+sg4
+S'x\xc3\xacng'
+p622
+sg6
+S'surname; family name\r'
+p623
+sg8
+S'\xe5\xa7\x93'
+p624
+sa(dp625
+g2
+S'hsk2char125 \xe7\x99\xbe.mp3'
+p626
+sg4
+S'b\xc7\x8ei'
+p627
+sg6
+S'hundred\r'
+p628
+sg8
+S'\xe7\x99\xbe'
+p629
+sa(dp630
+g2
+S'hsk2char126 \xe9\x9b\xaa.mp3'
+p631
+sg4
+S'xu\xc4\x9b'
+p632
+sg6
+S'snow\r'
+p633
+sg8
+S'\xe9\x9b\xaa'
+p634
+sa(dp635
+g2
+S'hsk2char127 \xe8\xb4\xb5.mp3'
+p636
+sg4
+S'gu\xc3\xac'
+p637
+sg6
+S'expensive; noble; honorable; Guizhou province (abbreviation)\r'
+p638
+sg8
+S'\xe8\xb4\xb5'
+p639
+sa(dp640
+g2
+S'hsk2char128 \xe7\x94\x9f\xe7\x97\x85.mp3'
+p641
+sg4
+S'sh\xc4\x93ng b\xc3\xacng'
+p642
+sg6
+S'get sick; fall ill\r'
+p643
+sg8
+S'\xe7\x94\x9f\xe7\x97\x85'
+p644
+sa(dp645
+g2
+S'hsk2char129 \xe6\xb8\xb8\xe6\xb3\xb3.mp3'
+p646
+sg4
+S'y\xc3\xb3uy\xc7\x92ng'
+p647
+sg6
+S'to swim\r'
+p648
+sg8
+S'\xe6\xb8\xb8\xe6\xb3\xb3'
+p649
+sa(dp650
+g2
+S'hsk2char130 \xe7\x89\x9b\xe5\xa5\xb6.mp3'
+p651
+sg4
+S'ni\xc3\xban\xc7\x8ei'
+p652
+sg6
+S"cow's milk\r"
+p653
+sg8
+S'\xe7\x89\x9b\xe5\xa5\xb6'
+p654
+sa(dp655
+g2
+S'hsk2char131 \xe5\x8f\xb3\xe8\xbe\xb9.mp3'
+p656
+sg4
+S'y\xc3\xb2ubian'
+p657
+sg6
+S'the right (as opposed to left) side\r'
+p658
+sg8
+S'\xe5\x8f\xb3\xe8\xbe\xb9'
+p659
+sa(dp660
+g2
+S'hsk2char132 \xe4\xbe\xbf\xe5\xae\x9c.mp3'
+p661
+sg4
+S'pi\xc3\xa1nyi'
+p662
+sg6
+S'cheap\r'
+p663
+sg8
+S'\xe4\xbe\xbf\xe5\xae\x9c'
+p664
+sa(dp665
+g2
+S'hsk2char133 \xe5\x85\xac\xe5\x85\xb1\xe6\xb1\xbd\xe8\xbd\xa6.mp3'
+p666
+sg4
+S'g\xc5\x8dngg\xc3\xb2ng q\xc3\xacch\xc4\x93'
+p667
+sg6
+S'(public) bus\r'
+p668
+sg8
+S'\xe5\x85\xac\xe5\x85\xb1\xe6\xb1\xbd\xe8\xbd\xa6'
+p669
+sa(dp670
+g2
+S'hsk2char134 \xe8\xb5\xb7\xe5\xba\x8a.mp3'
+p671
+sg4
+S'q\xc7\x90 chu\xc3\xa1ng'
+p672
+sg6
+S'get out of bed\r'
+p673
+sg8
+S'\xe8\xb5\xb7\xe5\xba\x8a'
+p674
+sa(dp675
+g2
+S'hsk2char135 \xe6\x89\x93\xe7\xaf\xae\xe7\x90\x83.mp3'
+p676
+sg4
+S'd\xc7\x8e l\xc3\xa1nqi\xc3\xba'
+p677
+sg6
+S'play basketball\r'
+p678
+sg8
+S'\xe6\x89\x93\xe7\xaf\xae\xe7\x90\x83'
+p679
+sa(dp680
+g2
+S'hsk2char136 \xe9\xb8\xa1\xe8\x9b\x8b.mp3'
+p681
+sg4
+S'j\xc4\xabd\xc3\xa0n'
+p682
+sg6
+S'(chicken) egg\r'
+p683
+sg8
+S'\xe9\xb8\xa1\xe8\x9b\x8b'
+p684
+sa(dp685
+g2
+S'hsk2char137 \xe8\xb8\xa2\xe8\xb6\xb3\xe7\x90\x83.mp3'
+p686
+sg4
+S't\xc4\xabz\xc3\xbaqi\xc3\xba'
+p687
+sg6
+S'to play football/soccer\r'
+p688
+sg8
+S'\xe8\xb8\xa2\xe8\xb6\xb3\xe7\x90\x83'
+p689
+sa(dp690
+g2
+S'hsk2char138 \xe9\x9b\xb6.mp3'
+p691
+sg4
+S'l\xc3\xadng'
+p692
+sg6
+S'zero; remnant\r'
+p693
+sg8
+S'\xe9\x9b\xb6'
+p694
+sa(dp695
+g2
+S'hsk2char139 \xe6\x89\x8b\xe8\xa1\xa8.mp3'
+p696
+sg4
+S'sh\xc7\x92ubi\xc7\x8eo'
+p697
+sg6
+S'wristwatch\r'
+p698
+sg8
+S'\xe6\x89\x8b\xe8\xa1\xa8'
+p699
+sa(dp700
+g2
+S'hsk2char140 \xe6\x97\x85\xe6\xb8\xb8.mp3'
+p701
+sg4
+S'l\xc7\x9ay\xc3\xb3u'
+p702
+sg6
+S'trip; journey; tour\r'
+p703
+sg8
+S'\xe6\x97\x85\xe6\xb8\xb8'
+p704
+sa(dp705
+g2
+S'hsk2char141 \xe6\x9c\x8d\xe5\x8a\xa1\xe5\x91\x98.mp3'
+p706
+sg4
+S'f\xc3\xbaw\xc3\xb9yu\xc3\xa1n'
+p707
+sg6
+S'waiter/waitress; server; attendant\r'
+p708
+sg8
+S'\xe6\x9c\x8d\xe5\x8a\xa1\xe5\x91\x98'
+p709
+sa(dp710
+g2
+S'hsk2char142 \xe5\xae\xbe\xe9\xa6\x86.mp3'
+p711
+sg4
+S'b\xc4\xabngu\xc7\x8en'
+p712
+sg6
+S'guesthouse; hotel\r'
+p713
+sg8
+S'\xe5\xae\xbe\xe9\xa6\x86'
+p714
+sa(dp715
+g2
+S'hsk2char143 \xe6\x95\x99\xe5\xae\xa4.mp3'
+p716
+sg4
+S'ji\xc3\xa0osh\xc3\xac'
+p717
+sg6
+S'classroom\r'
+p718
+sg8
+S'\xe6\x95\x99\xe5\xae\xa4'
+p719
+sa(dp720
+g2
+S'hsk2char144 \xe8\xb7\x91\xe6\xad\xa5.mp3'
+p721
+sg4
+S'p\xc7\x8eo b\xc3\xb9'
+p722
+sg6
+S'to run; to jog\r'
+p723
+sg8
+S'\xe8\xb7\x91\xe6\xad\xa5'
+p724
+sa(dp725
+g2
+S'hsk2char145 \xe9\x98\xb4.mp3'
+p726
+sg4
+S'y\xc4\xabn'
+p727
+sg6
+S'cloudy (weather); yin (the negative principle of Yin and Yang); secret; the moon; negative; shade\r'
+p728
+sg8
+S'\xe9\x98\xb4'
+p729
+sa(dp730
+g2
+S'hsk2char146 \xe9\x9d\xa2\xe6\x9d\xa1.mp3'
+p731
+sg4
+S'mi\xc3\xa0nti\xc3\xa1o'
+p732
+sg6
+S'noodles\r'
+p733
+sg8
+S'\xe9\x9d\xa2\xe6\x9d\xa1'
+p734
+sa(dp735
+g2
+S'hsk2char147 \xe9\x93\x85\xe7\xac\x94.mp3'
+p736
+sg4
+S'qi\xc4\x81nb\xc7\x90'
+p737
+sg6
+S'pencil\r'
+p738
+sg8
+S'\xe9\x93\x85\xe7\xac\x94'
+p739
+sa(dp740
+g2
+S'hsk2char148 \xe7\x81\xab\xe8\xbd\xa6\xe7\xab\x99.mp3'
+p741
+sg4
+S'hu\xc7\x92ch\xc4\x93zh\xc3\xa0n'
+p742
+sg6
+S'train station\r'
+p743
+sg8
+S'\xe7\x81\xab\xe8\xbd\xa6\xe7\xab\x99'
+p744
+sa(dp745
+g2
+S'hsk2char149 \xe8\xa5\xbf\xe7\x93\x9c.mp3'
+p746
+sg4
+S'x\xc4\xabgu\xc4\x81'
+p747
+sg6
+S'watermelon\r'
+p748
+sg8
+S'\xe8\xa5\xbf\xe7\x93\x9c'
+p749
+sa(dp750
+g2
+S'hsk2char150 \xe7\xbe\x8a\xe8\x82\x89.mp3'
+p751
+sg4
+S'y\xc3\xa1ngr\xc3\xb2u'
+p752
+sg6
+S'mutton; lamb\r'
+p753
+sg8
+S'\xe7\xbe\x8a\xe8\x82\x89'
+p754
+sa(dp755
+g2
+S'hsk2char151 \xe6\x99\xb4.mp3'
+p756
+sg4
+S'q\xc3\xadng'
+p757
+sg6
+S'clear; fine (as of weather)\r'
+p758
+sg8
+S'\xe6\x99\xb4'
+p759
+sa.
