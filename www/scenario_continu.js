@@ -35,16 +35,19 @@ function scenario()
 
 	var word = choose_character(hsk_json)
 	load_card(word)
-	while (document.getElementById("myAudio").paused)
-	{
-		
-	}
-	setTimeout(show_pinyin,1000)
-	setTimeout(pronounce,2000)
-	setTimeout(pronounce,3000)
-	setTimeout(show_meaning,3000)
+	var time_base = 800
+	var n = word.character.length
+	var time = n*time_base
+//	while (document.getElementById("myAudio").paused)
+//	{
 
-	setTimeout(scenario,4000)
+//	}
+	setTimeout(show_pinyin,time)
+	setTimeout(pronounce,2*time)
+	setTimeout(pronounce,3*time)
+	setTimeout(show_meaning,3*time)
+
+	setTimeout(scenario,4*time)
 }
 
 function show_pinyin()
