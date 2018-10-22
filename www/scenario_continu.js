@@ -1,6 +1,6 @@
 
 var hsk_json;
-
+var hsk2_json;
 function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
@@ -33,7 +33,7 @@ function load_card(word)
 function scenario()
 {
 
-	var word = choose_character(hsk_json)
+	var word = choose_character(hsk2_json)
 	load_card(word)
 	var time_base = 800
 	var n = word.character.length
@@ -88,4 +88,23 @@ req.onreadystatechange = function(event) {
 
 req.open('GET', '../res/hsk_1.json', true);
 req.send(null);
+
+
+const req2 = new XMLHttpRequest();
+
+req2.onreadystatechange = function(event) {
+    // XMLHttpRequest.DONE === 4
+    if (this.readyState === XMLHttpRequest.DONE) {
+        if (this.status === 200) {
+            hsk2_json = JSON.parse(this.responseText)
+        } else {
+            console.log("Status de la réponse: %d (%s)", this.status, this.statusText);
+        }
+    }
+};
+
+req2.open('GET', '../res/hsk_2.json', true);
+req2.send(null);
+
+
 
