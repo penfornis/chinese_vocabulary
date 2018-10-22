@@ -1,5 +1,5 @@
 body{
-  font-family: Georgia, "Times New Roman", "KaiTi", "楷体", STKaiti, "华文楷体", serif;
+  font-family: Georgia, "Times New Roman", "KaiTi", "æ¥·ä½“", STKaiti, "åŽæ–‡æ¥·ä½“", serif;
 }
 div.word {
   margin: auto;
@@ -8,24 +8,35 @@ div.word {
 }
 
 div.meaning{
-  border: 15px; 
+  font-family: Arima Madurai;
+  padding: 15px; 
   margin: auto;
   text-align: center;
   font-size: 50px;
 }
 div.pinyin{
   font-family: Arima Madurai;
+  padding: 14px;;
   margin: auto;
   text-align: center;
-  font-size: 60px;
+  font-size: 50px;
 }
 div.card{
-  margin: auto;
+  margin:auto  ;
+  margin-top: 2%;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 5px;
   text-align: center;
   width: 600px;
   height: 600px;
-  
+  position: relative;
+
+}
+
+audio{
+    position: absolute;
+    bottom : 20px;
+    left: 25%;
+
 }
