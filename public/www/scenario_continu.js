@@ -2,6 +2,31 @@ function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
 
+
+//**********style**********
+NB_IMAGES = 15
+function image_url(i){
+	return "/img/china_"+i+".jpg";
+}
+//https://source.unsplash.com/1600x900/?china
+
+function wonderful(){
+	var word_spot = document.getElementById("word");
+	var downloadingImage = new Image();
+	downloadingImage.onload = function(){
+		word_spot.style.color = "white";
+		word_spot.style.background = "url("+this.src+") -500px -200px no-repeat";
+		word_spot.style["-webkit-background-clip"]= "text";
+  		word_spot.style["-webkit-text-fill-color"] = "transparent";
+	};
+	i = getRandomInt(NB_IMAGES)+1;
+	downloadingImage.src = image_url(i);
+
+
+} 
+//****************************
+
+
 function choose_character(hsk_json)
 {
 	i = getRandomInt(hsk_json.length);
@@ -63,6 +88,7 @@ function load_card(word)
 }
 function scenario()
 {
+	wonderful()
 	var audio_spot = document.getElementById("myAudio");
 	audio_spot.onplay = false;
 	audio_spot.controls = false;
